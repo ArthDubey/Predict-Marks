@@ -9,7 +9,7 @@ This project aims to build a software which can predict marks of a student purel
 ## Getting Started
 
 Clone the repository in your system and follow these steps-
-1. Install requiremts by
+1. Install requirements by
 
 ```
 pip install -r requirements.txt
